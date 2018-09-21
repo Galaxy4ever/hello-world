@@ -161,3 +161,4 @@ public int calcTime(int numSpaces){
   }
   return 350*numSpaces + 1000;
 }
+public void reeee(){}
